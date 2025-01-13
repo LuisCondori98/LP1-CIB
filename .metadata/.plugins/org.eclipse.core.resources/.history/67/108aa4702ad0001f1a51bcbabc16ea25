@@ -1,0 +1,83 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<link rel="stylesheet" href="maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+</head>
+<body>
+	<form action="RegistrarCursoServlet" method="post">
+
+        <label for="codigo">Código:</label>
+
+        <input type="text" id="codigo" name="codigo" required>
+
+        <br><br>
+
+
+
+        <label for="nombre">Nombre:</label>
+
+        <input type="text" id="nombre" name="nombre" required>
+
+        <br><br>
+
+
+
+        <label for="nivel">Nivel:</label>
+
+        <input type="text" id="nivel" name="nivel" required>
+
+        <br><br>
+
+
+
+        <label for="profesor">Profesor:</label>
+
+        <input type="text" id="profesor" name="profesor" required>
+
+        <br><br>
+
+
+
+        <input type="submit" value="Enviar Datos">
+
+    </form>
+    
+<h1>Registrar Cursos</h1>
+
+    <form action="RegistrarCursoServlet" method="post">
+
+        <label for="codigo">Código</label>
+
+        <input type="text" id="codigo" name="codigo" required>
+
+
+
+        <label for="nombre">Nombre</label>
+
+        <input type="text" id="nombre" name="nombre" required>
+
+
+
+        <label for="nivel">Nivel</label>
+
+        <input type="text" id="nivel" name="nivel" required>
+
+
+
+        <label for="profesor">Profesor</label>
+
+        <input type="text" id="profesor" name="profesor" required>
+
+
+
+        <input type="submit" value="Enviar Datos">
+
+    </form>
+	
+</body>
+</html>

@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+D:\-- CIBERTEC --\Ciclo-4\Lenguaje de programacion I\LPI-4688\.metadata\.plugins\org.eclipse.jdt.core
+3477976642.index
+1447356408.index
+2091403894.index
+1865797976.index
+1842683919.index
