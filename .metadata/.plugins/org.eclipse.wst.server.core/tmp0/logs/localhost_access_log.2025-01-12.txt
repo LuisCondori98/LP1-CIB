@@ -108,3 +108,7 @@
 0:0:0:0:0:0:0:1 - - [12/Jan/2025:16:18:33 -0500] "GET /Clase-02/jsp/Login.jsp HTTP/1.1" 200 2854
 0:0:0:0:0:0:0:1 - - [12/Jan/2025:16:18:40 -0500] "GET /Clase-02/LoginServelet?email=nachito%40hotmail.com&password=qweasdzxc HTTP/1.1" 302 -
 0:0:0:0:0:0:0:1 - - [12/Jan/2025:16:18:40 -0500] "GET /Clase-02/jsp//index.jsp HTTP/1.1" 200 161
+127.0.0.1 - - [12/Jan/2025:16:19:20 -0500] "GET / HTTP/1.1" 404 687
+0:0:0:0:0:0:0:1 - - [12/Jan/2025:16:19:22 -0500] "GET /Clase-02/jsp/Login.jsp HTTP/1.1" 200 2854
+0:0:0:0:0:0:0:1 - - [12/Jan/2025:16:19:29 -0500] "GET /Clase-02/LoginServelet?email=nachitoisaac%40hotmail.com&password=qwe123zxc HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [12/Jan/2025:16:19:29 -0500] "GET /Clase-02/jsp/index.jsp HTTP/1.1" 200 161
