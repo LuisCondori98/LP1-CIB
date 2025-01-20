@@ -19,4 +19,6 @@
     <fullyQualifiedTypeName name="entidades.Subject"/>
     <fullyQualifiedTypeName name="modelos.SubjectModel"/>
     <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="model.Cliente"/>
+    <fullyQualifiedTypeName name="services.ClienteService"/>
 </qualifiedTypeNameHistroy>

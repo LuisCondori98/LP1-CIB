@@ -9,11 +9,12 @@ integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEw
 <title>Insert title here</title>
 </head>
 <body>
-	<form action="<%=request.getContextPath()%>/ClienteServlet">
+	<form action="<%=request.getContextPath()%>/ClienteServlet" class="d-flex flex-column w-100 gap-3 p-3 align-items-center">
+		<h3>Formulario Clientes</h3>
 		<input type="text" name="nombres" placeholder="Ingrese Nombres" />
 		<input type="text" name="direccion" placeholder="Ingrese Direccion" />
 		<input type="number" name="edad" placeholder="Ingrese Edad" />
-		<input type="submit" value="Crear" class="btn btn-primary"/>
+		<input type="submit" value="Crear" class="btn btn-success" />
 	</form>
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
