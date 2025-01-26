@@ -162,7 +162,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="Clase-01" path="/Clase-01" reloadable="true" source="org.eclipse.jst.jee.server:Clase-01"/><Context docBase="Clase-02" path="/Clase-02" reloadable="true" source="org.eclipse.jst.jee.server:Clase-02"/><Context docBase="Clase-03" path="/Clase-03" reloadable="true" source="org.eclipse.jst.jee.server:Clase-03"/><Context docBase="PracticaClase-03" path="/PracticaClase-03" reloadable="true" source="org.eclipse.jst.jee.server:PracticaClase-03"/></Host>
+      <Context docBase="Clase-01" path="/Clase-01" reloadable="true" source="org.eclipse.jst.jee.server:Clase-01"/><Context docBase="Clase-02" path="/Clase-02" reloadable="true" source="org.eclipse.jst.jee.server:Clase-02"/><Context docBase="Clase-03" path="/Clase-03" reloadable="true" source="org.eclipse.jst.jee.server:Clase-03"/><Context docBase="PracticaClase-03" path="/PracticaClase-03" reloadable="true" source="org.eclipse.jst.jee.server:PracticaClase-03"/><Context docBase="Clase-04" path="/Clase-04" reloadable="true" source="org.eclipse.jst.jee.server:Clase-04"/><Context docBase="Proyecto_Condori_T1" path="/Proyecto_Condori_T1" reloadable="true" source="org.eclipse.jst.jee.server:Proyecto_Condori_T1"/></Host>
     </Engine>
   </Service>
 </Server>

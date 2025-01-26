@@ -3,6 +3,12 @@ D:\-- CIBERTEC --\Ciclo-4\Lenguaje de programacion I\LPI-4688\.metadata\.plugins
 \Clase-03-1\src\main\java
 D:\-- CIBERTEC --\Ciclo-4\Lenguaje de programacion I\LPI-4688\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3204416295.index
 \Clase-02\src\main\java
+D:\-- CIBERTEC --\Ciclo-4\Lenguaje de programacion I\LPI-4688\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1220708065.index
+\Clase-04\src\main\java
+D:\-- CIBERTEC --\Ciclo-4\Lenguaje de programacion I\LPI-4688\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2241807046.index
+\Proyecto_Condori_T1\src\main\java
+D:\-- CIBERTEC --\Ciclo-4\Lenguaje de programacion I\LPI-4688\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3047414910.index
+\Clase-4\src\main\java
 D:\-- CIBERTEC --\Ciclo-4\Lenguaje de programacion I\LPI-4688\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\396770474.index
 \Clase-01\src\main\java
 D:\-- CIBERTEC --\Ciclo-4\Lenguaje de programacion I\LPI-4688\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\556073145.index

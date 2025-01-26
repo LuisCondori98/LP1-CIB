@@ -19,6 +19,7 @@ public class ClienteServlet extends HttpServlet {
     	
         super();
     }
+    
 	protected void service(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
 		
 		registrarCliente(req, res);

@@ -57,24 +57,24 @@
 							List<Subject> listSubject = (List<Subject>) request.getAttribute("data");
 							if (listSubject != null) {
 								for (Subject item : listSubject) {
-							%>
-							<tr>
-								<td><%=item.getId()%></td>
-								<td><%=item.getCode()%></td>
-								<td><%=item.getName()%></td>
-								<td><%=item.getLevel()%></td>
-								<td><%=item.getTeacher()%></td>
-								<td>
-								<a href="SubjectServlet?type=info&id=<%=item.getId()%>">
+								%>
+								<tr>
+									<td><%=item.getId()%></td>
+									<td><%=item.getCode()%></td>
+									<td><%=item.getName()%></td>
+									<td><%=item.getLevel()%></td>
+									<td><%=item.getTeacher()%></td>
+									<td>
+									<a href="SubjectServlet?type=info&id=<%=item.getId()%>">
 										<img alt="info" src="img/info.svg" width="20" height="20"
 										title="Editar"></a>
-								<a href="SubjectServlet?type=delete&id=<%=item.getId()%>">
-								 <img alt="delete" src="img/tacho.svg" width="20" height="20"
-									title="Eliminar"></a>
-								</td>
-							</tr>
-							<%
-							}
+									<a href="SubjectServlet?type=delete&id=<%=item.getId()%>">
+										 <img alt="delete" src="img/tacho.svg" width="20" height="20"
+										 title="Eliminar"></a>
+									</td>
+								</tr>
+								<%
+								}
 							}
 							%>
 						</tbody>
